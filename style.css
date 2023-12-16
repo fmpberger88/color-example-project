@@ -266,7 +266,7 @@ footer li {
     }
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 600px) {
     .photo-hero {
         min-height: 900px;
     }
